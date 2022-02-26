@@ -30,6 +30,6 @@
   <a href = "mailto:flaviojunior1070@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fl%C3%A1vio-martins-jr-601b36200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/FlavioMartinsJr/FlavioMartinsJr/blob/9bca85086dda98e9e8deec114ed365b6b073e3d9/.github/workflows/cobrinha.yml)
+  ![Snake animation](https://github.com/FlavioMartinsJr/FlavioMartinsJr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
