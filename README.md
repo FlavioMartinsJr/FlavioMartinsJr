@@ -9,8 +9,8 @@
 
 <div style="display: inline_block">
   <a href="https://beacons.ai/FlavioMartinsJr">
-  <img widht="48%" src="https://github-readme-stats.vercel.app/api?username=FlavioMartinsJr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img widht="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMartinsJr&layout=compact&langs_count=7&theme=nightowl"/>
+  <img widht="40%" src="https://github-readme-stats.vercel.app/api?username=FlavioMartinsJr&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img widht="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioMartinsJr&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="flav-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
