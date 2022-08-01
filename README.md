@@ -1,9 +1,8 @@
 ### Olá: eu sou o Flavio 👋
 
 - 🔭 Trabalho com front-end
-- 🌱 Estudando: front-end
+- 🌱 buscando conhecimentos e desafios
 - 🤔 Focado e com Objetivos
-- 😄 buscando conhecimentos e desafios
 
   ##
 
