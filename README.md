@@ -1,6 +1,6 @@
 ### Olá: eu sou o Flavio 👋
 
-- 🔭 Trabalho com Back-end
+- 🔭 Trabalho com Desenvolvimento de Sistemas
 - 🌱 buscando conhecimentos e desafios
 - 🤔 Focado e com Objetivos
 
