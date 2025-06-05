@@ -1,9 +1,4 @@
 ### Olá: eu sou o Flavio 👋
-
-- 🔭 Trabalho com Desenvolvimento de Sistemas
-- 🌱 buscando conhecimentos e desafios
-- 🤔 Focado e com Objetivos
-
   ##
 
 <div height="180" width= "100%"  align="center" style="display: inline_block">
