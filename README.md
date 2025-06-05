@@ -1,4 +1,5 @@
-### Olá: eu sou o Flavio 👋
+### Eu sou o Flavio 👋
+Seja bem vindo
   ##
 
 <div height="180" width= "100%"  align="center" style="display: inline_block">
